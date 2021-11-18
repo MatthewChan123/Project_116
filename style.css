@@ -1,0 +1,11 @@
+.btn btn-danger {
+    color:blue;
+    background-color:aqua;
+    border-width:5px;
+    border-color:black;
+}
+button {
+    border-width:5px;
+    border-color:black;
+    color:black;
+}
